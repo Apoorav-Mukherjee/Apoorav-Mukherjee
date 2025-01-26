@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **apooravmukherjee@gmail.com**
 
-- ⚡ Fun fact **Fun Fact: I secure my apps like I secure my snacks—nothing gets through!**
+- ⚡ **Fun Fact: I secure my apps like I secure my snacks—nothing gets through!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
