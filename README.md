@@ -115,11 +115,8 @@ Each project has its own repo, README, and demo link (if hosted).
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="www.linkedin.com/in/apoorav-mukherjee-5551ba22a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apoorav mukherjee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/apoorav-mukherjee-5551ba22a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apoorav mukherjee" height="30" width="40" /></a>
 <a href="https://instagram.com/apoorvmukherejee06_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minimalistic_ap" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/apooravmuweu4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="apooravmuweu4" height="30" width="40" /></a>
-</p>
-
 ---
 
 ### 📊 GitHub Stats  
