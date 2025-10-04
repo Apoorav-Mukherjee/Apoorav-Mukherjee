@@ -1,32 +1,101 @@
 <h1 align="center">Hi 👋, I'm Apoorav Krishna Mukherjee</h1>
-<h3 align="center">Writing Python, building the web, and occasionally pretending to be a hacker (for research, of course).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorav-mukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="apoorav-mukherjee" /> </p>
+# 🚀 Apoorav’s Developer Odyssey
+### *From Scripts to Systems — The Journey of a Developer in Motion.*
 
-- 🔭 I’m currently working on **KBC (Kaun Banega Crorepati)**
+> "Code like you mean it. Build what matters. Automate the boring stuff. Create what excites you."
 
-- 🌱 I’m currently learning **Django, NodeJS and Python Web Automation And GUI Development**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Apoorav-Mukherjee/My-Cool-Projects](https://github.com/Apoorav-Mukherjee/My-Cool-Projects)
+## 🧭 OVERVIEW
+This repository tracks my **full-stack + automation journey**, starting from small scripts to full production-level systems.  
+Each project has its own repo, README, and demo link (if hosted).  
 
-- 💬 Ask me about **React, Python, Web Frontend Languages Like (HTML,CSS,JavaScript)**
+**Tech Stack Focus:**  
+`Python` | `Flask` | `Django` | `JavaScript` | `React` | `Tailwind CSS` | `Express.js` | `MongoDB` | `Mongoose` | `Next.js`
 
-- 📫 How to reach me **apooravmukherjee@gmail.com**
+---
 
-- ⚡ **Fun Fact: I secure my apps like I secure my snacks—nothing gets through!**
+## 🧩 LEVEL 1 — Skill Warmups (Automation + Python/JS Mini Tools)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/apoorav mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apoorav mukherjee" height="30" width="40" /></a>
-<a href="https://instagram.com/minimalistic_ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minimalistic_ap" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/apooravmuweu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="apooravmuweu4" height="30" width="40" /></a>
-</p>
+| # | Project | Description | Tech |
+|:-:|----------|--------------|------|
+| 1 | 🗂️ **File Organizer** | Automatically sorts files into folders by type/date. | Python |
+| 2 | 📸 **Screenshot + Notes Saver** | Take screenshots and save as timestamped notes. | Python |
+| 3 | 🌦️ **Weather CLI Tool** | Fetches live weather data using OpenWeather API. | Node.js |
+| 4 | 📧 **Auto Email Sender** | Sends automatic reports/emails using templates. | Python |
+| 5 | 💰 **Expense Tracker (CLI)** | Tracks daily expenses and stores them in CSV. | Python |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+> 🧠 *Goal:* Strengthen fundamentals, scripting, and API interactions.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorav-mukherjee&show_icons=true&locale=en&layout=compact" alt="apoorav-mukherjee" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorav-mukherjee&show_icons=true&locale=en" alt="apoorav-mukherjee" /></p>
+## 🌐 LEVEL 2 — Practical Web Apps (Foundational Systems)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorav-mukherjee&" alt="apoorav-mukherjee" /></p>
+| # | Project | Description | Stack |
+|:-:|----------|--------------|-------|
+| 6 | 🎓 **Student Management System** | Manage students, batches, attendance, and fees. | Flask + SQLite |
+| 7 | 📝 **Blogify** | A simple blogging platform with markdown and comments. | MERN |
+| 8 | ✅ **TaskFlow** | Smart to-do app with reminders and filters. | Flask + MongoDB |
+| 9 | 🔐 **NotesVault** | Secure notes with JWT authentication. | Express + MongoDB |
+| 10 | 📂 **FileShare Mini** | Upload and share files temporarily via link. | Node.js + Multer |
+
+> 🧠 *Goal:* Learn CRUD operations, databases, and authentication.
+
+---
+
+## ⚙️ LEVEL 3 — Real-World Clones + API Projects
+
+| # | Project | Description | Stack |
+|:-:|----------|--------------|-------|
+| 11 | ▶️ **YouTube Clone** | Fetches and displays videos using YouTube API. | React + Tailwind |
+| 12 | 📸 **InstaShare** | A mini social media app with likes, comments & auth. | MERN |
+| 13 | 🎬 **MovieDex** | Explore movies and trailers via TMDB API. | Next.js |
+| 14 | 📬 **MailAutomate API** | Custom email-sending API with templating. | Node.js + Express |
+| 15 | 🧾 **DevStatus** | API status dashboard (GitHub, OpenAI, etc.). | React + REST API |
+| 16 | 🧱 **QuickForm Builder** | Drag-and-drop form builder that generates shareable forms. | React + Express + MongoDB |
+
+> 🧠 *Goal:* Build scalable APIs, practice frontend-backend synergy, and deploy live systems.
+
+---
+
+## 💎 LEVEL 4 — Signature & Portfolio Projects
+
+| # | Project | Description | Stack |
+|:-:|----------|--------------|-------|
+| 17 | 🌌 **Personal Portfolio** | Interactive & funky portfolio site with animations and GitHub API integration. | Next.js + Tailwind + Framer Motion |
+| 18 | ⚡ **Lazy Automation Hub** | Local dashboard automating daily computer tasks. | Flask / React + Python |
+| 19 | 🧭 **TrackMyGoals (Winter Arc Tracker 2.0)** | Tracks daily habits, goals, and progress charts. | MERN |
+| 20 | 🧰 **DevTools Web Suite** | A web suite of developer tools like JSON formatter, QR generator, etc. | React + Express |
+
+> 💡 *Goal:* Leave a mark — build things that feel yours.
+
+---
+
+## 📆 PHASE PLAN
+
+| Phase | Duration | Focus |
+|--------|-----------|--------|
+| **Phase 1** | 1–2 Months | Automation + 2 Flask Apps |
+| **Phase 2** | 2–3 Months | Foundational Web Apps |
+| **Phase 3** | 2–3 Months | API + Clone Projects |
+| **Phase 4** | Final Month | Funky Portfolio + Polish Everything |
+
+---
+
+## 🧠 FUTURE EXPANSIONS
+- 🧩 Turn a few projects into open-source utilities.  
+- ☁️ Deploy major projects on Render / Vercel.  
+- 🧑‍💻 Integrate CI/CD for backend repos.  
+- ⚙️ Write DevLogs for each project in the portfolio site.  
+
+---
+
+## ⚔️ MOTTO
+> “Be the developer who doesn’t just code — but *creates experiences*.”
+
+⭐ **Follow the journey:** [github.com/Apoorav-Mukherjee](https://github.com/Apoorav-Mukherjee)  
+💬 **Connect:** Let’s build, collaborate, and automate something cool.
+
+---
+
